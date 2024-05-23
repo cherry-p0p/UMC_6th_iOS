@@ -1,0 +1,6 @@
+framework module Pods_week05_mission_api_week05_mission_apiUITests {
+  umbrella header "Pods-week05_mission_api-week05_mission_apiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

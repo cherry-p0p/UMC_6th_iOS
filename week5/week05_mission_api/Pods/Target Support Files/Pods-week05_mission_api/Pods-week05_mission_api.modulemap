@@ -1,0 +1,6 @@
+framework module Pods_week05_mission_api {
+  umbrella header "Pods-week05_mission_api-umbrella.h"
+
+  export *
+  module * { export * }
+}
